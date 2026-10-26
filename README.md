@@ -136,11 +136,3 @@ The notebook contains its own copy of the code. If you change anything in `sosbe
 - W. Simson et al., *Ultrasound Autofocusing: Common Midpoint Phase Error Optimization via Differentiable Beamforming*, IEEE Transactions on Medical Imaging, 2026.
 
 If you use the IMPACT data, please cite Ali et al. (2023).
-
-## Author
-
-Diyanshu Kundu, MSc student in Image Analysis and Machine Learning, Uppsala University.
-
-## License
-
-MIT, see [LICENSE](LICENSE).

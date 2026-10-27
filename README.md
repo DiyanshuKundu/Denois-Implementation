@@ -1,4 +1,5 @@
-# Denois-Implementation# DenOiS implementation and comparison with physics-based speed-of-sound reconstruction
+# Denois-Implementation
+#DenOiS implementation and comparison with physics-based speed-of-sound reconstruction
 
 This repository contains my re-implementation of **DenOiS** (Bezek & Goksel, 2026), a learning-based method for imaging the speed of sound (SoS) in tissue from ordinary pulse-echo ultrasound. I compare it against the two physics-based methods from H. Meng's MSc thesis (Uppsala University, 2026): **DAS+CMPE** and **SSFM**. All three methods are evaluated on the same public data.
 
